@@ -1,0 +1,6 @@
+.env
+.qodo
+.venv
+credentials.json
+credentials-web.json
+token.json

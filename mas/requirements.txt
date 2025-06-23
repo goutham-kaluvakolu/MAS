@@ -1,0 +1,11 @@
+langchain-google-community[gmail]
+langgraph
+langchain-google-genai
+langchain-mcp-adapters
+mcp-use
+langchain_openai
+langgraph
+langsmith
+ipython
+duckduckgo-search
+langchain-community
